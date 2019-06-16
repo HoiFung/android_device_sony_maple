@@ -199,10 +199,6 @@ etc/permissions/com.fingerprints.extension.xml
 -framework/com.fingerprints.extension.jar
 
 # DRM
-lib/android.hardware.drm@1.0.so
-lib/android.hardware.drm@1.1.so
-lib64/android.hardware.drm@1.0.so
-lib64/android.hardware.drm@1.1.so
 etc/firmware/tzwidevine.b00
 etc/firmware/tzwidevine.b01
 etc/firmware/tzwidevine.b02
@@ -243,6 +239,8 @@ etc/firmware/tzfingerprint.b05
 etc/firmware/tzfingerprint.b06
 etc/firmware/tzfingerprint.b07
 etc/firmware/tzfingerprint.mdt
+=======
+>>>>>>> 5b35538... proprietary: Remove source-built blobs
 
 # FIRMWARE
 etc/firmware/cmnlib64.b00
