@@ -561,6 +561,9 @@ etc/firmware/tztpm.b06
 etc/firmware/tztpm.b07
 etc/firmware/tztpm.mdt
 
+# SCD
+bin/scd
+
 # SEMC_IDD
 lib/vendor.semc.system.idd@1.0.so
 lib64/vendor.semc.system.idd@1.0.so
