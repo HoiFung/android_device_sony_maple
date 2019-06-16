@@ -1,5 +1,6 @@
 ### NFC
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
     nfc_nci.msm8998
 
 # Keymaster
@@ -11,3 +12,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.gatekeeper@1.0-impl \
     android.hardware.gatekeeper@1.0-service
+=======
+	nfc_nci.nqx.default
+>>>>>>> e7b8316... config: Update NFC configs and module
